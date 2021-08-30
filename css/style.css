@@ -1,0 +1,69 @@
+*{
+margin: 0;
+padding: 0;
+}
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    background-color: #fceae8;
+    border-radius: 10px;
+    padding: 20px 40px;
+
+}
+
+.pink-button{
+    background-image: linear-gradient(to bottom, #ff58c791 0%, #ff4b93 100%);
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 8px 22px;
+    color: white;
+    cursor: pointer;
+}
+.price{
+  color: #ff4b93;
+}
+.cat1,.cat2,.cat3{
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(to right, orange 0%, yellow 100%);
+}
+.cat2{
+    background-image: linear-gradient(to right,green 0%,yellowgreen 100%);
+}
+.cat3{
+    background-image: linear-gradient(to right, blue 0%, rgb(0, 174, 255) 100%);
+}
+.cat-text{
+    color: white;
+}
+.categories img{
+    width: 40%;
+}
+.shoes-button{
+    margin-top: 60px;
+}
+.card{
+    border: none;
+    box-shadow: 8px 8px 40px  grey;
+}
+#Contact{
+    background-color: #fceae8;
+    height: 300px;
+}
+.submit{
+    margin-top: 10px;
+}
+#Contact h6{
+    color: gray;
+}
+
+footer{
+    background-color: ghostwhite
+}
+footer h6{
+    margin: 0;
+}
