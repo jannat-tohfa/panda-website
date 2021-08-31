@@ -1,0 +1,42 @@
+/* extra small device */
+/* ================header part start============== */
+@media (min-width:320px) and (max-width:575px){
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .w-100{
+        width: 60% !important;
+        margin-top: 10px;
+        margin-left: 40px;
+
+    }
+    .price{
+        text-align: center;
+    }
+     .carousel-item  .pink-button{
+        margin-left: 50px;
+    }
+    #Shoes .card-img-top{
+        width: 80%;
+        margin-left: 30px;
+    }
+     #Backpack .card-img-top{
+        width: 70%;
+        margin-left: 30px;
+}
+}
+/* =================header part end============ */
+/* small device */
+@media (min-width:576px) and (max-width:767px) {
+    .categories img {
+        width: 25%;
+    }
+    .cat-text{
+        margin-left: 30px;
+    }
+    .card-img-top{
+        width: 50%;
+        margin-left: 90px;
+    }
+    
+}
